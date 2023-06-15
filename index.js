@@ -26,6 +26,7 @@ inputEmail.addEventListener("blur", function () {
         changeColor.classList.remove("error");
         text.classList.remove("visible");
         btn.classList.add("enable");
+        btn.classList.remove("block");
 
     } else {
         changeColor.classList.add("error");

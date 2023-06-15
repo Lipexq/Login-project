@@ -200,7 +200,7 @@ button:hover {
   align-items: center;
 }
 .login .container-login .wrap-login .container-login-form-btn .enable {
-  pointer-events: inherit !important;
+  pointer-events: auto !important;
 }
 .login .container-login .wrap-login .container-login-form-btn .block {
   pointer-events: none !important;
